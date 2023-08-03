@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volynkinss&layout=compact&theme=dark)](https://github.com/volynkinss)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=volynkinss&show_icons=true&locale=en&theme=dark)](https://github.com/volynkinss)
+
 <!---
 volynkinss/volynkinss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
