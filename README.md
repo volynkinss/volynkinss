@@ -13,6 +13,6 @@
 <h2 align="left">Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=volynkinss&show=reviews&show_icons=true&theme=dark)</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volynkinss&hide=html&theme=tokyonight&layout=compact)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volynkinss&size_weight=0.5&count_weight=0.5&hide=html&theme=tokyonight&layout=donut)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volynkinss&label=Profile%20views&color=0e75b6&style=flat" alt="volynkinss" /> </p>
